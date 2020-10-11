@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VehicleTracking</name>
+    </assembly>
+    <members>
+        <member name="M:VehicleTracking.Controllers.UserController.Register(Entities.DataTransferObject.UserRegisterRequestDto)">
+            <summary>
+            User registation
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VehicleTracking.Controllers.UserController.Authenticate(Entities.DataTransferObject.UserLoginDto)">
+            <summary>
+            Authentication user
+            </summary>
+            <param name="userLogin"></param>
+            <returns></returns>
+        </member>
+        <member name="T:VehicleTracking.Controllers.VehicleController">
+            <summary>
+            Vehicle controller
+            </summary>
+        </member>
+        <member name="M:VehicleTracking.Controllers.VehicleController.#ctor(Service.Interface.IVehicleService,Service.Interface.IVehiclePositonRecord)">
+            <summary>
+            
+            </summary>
+            <param name="vehicleService"></param>
+            <param name="vehicleRecordService"></param>
+        </member>
+        <member name="M:VehicleTracking.Controllers.VehicleController.Post(Entities.DataTransferObject.VehicleRegisterDto)">
+            <summary>
+            Vehicle register
+            </summary>
+            <param name="vehicle"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VehicleTracking.Controllers.VehicleController.RecordPosition(Entities.DataTransferObject.PositionRecordRequestDto)">
+            <summary>
+            Record vehicle position
+            </summary>
+            <param name="position"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VehicleTracking.Controllers.VehicleController.Get(System.Int32)">
+            <summary>
+            Get current vehicle position
+            </summary>
+            <param name="deviseId"></param>
+            <returns></returns>  
+        </member>
+        <member name="M:VehicleTracking.Controllers.VehicleController.Get(System.Int32,System.DateTime,System.DateTime)">
+            <summary>
+            Get position by period of time
+            </summary>
+            <param name="deviseId"></param>
+            <param name="from"></param>
+            <param name="to"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

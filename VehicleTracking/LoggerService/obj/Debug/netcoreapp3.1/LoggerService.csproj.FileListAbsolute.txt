@@ -1,0 +1,15 @@
+D:\VehicleTracking\VehicleTracking\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+D:\VehicleTracking\VehicleTracking\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\VehicleTracking\VehicleTracking\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\VehicleTracking\VehicleTracking\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+D:\VehicleTracking\VehicleTracking\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+D:\VehicleTracking\VehicleTracking\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+D:\VehicleTracking\VehicleTracking\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+D:\BackupProject\VehicleTracking\VehicleTracking\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+D:\BackupProject\VehicleTracking\VehicleTracking\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\BackupProject\VehicleTracking\VehicleTracking\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\BackupProject\VehicleTracking\VehicleTracking\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+D:\BackupProject\VehicleTracking\VehicleTracking\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+D:\BackupProject\VehicleTracking\VehicleTracking\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+D:\BackupProject\VehicleTracking\VehicleTracking\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+D:\BackupProject\VehicleTracking\VehicleTracking\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

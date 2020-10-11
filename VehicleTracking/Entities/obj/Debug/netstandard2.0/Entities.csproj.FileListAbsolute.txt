@@ -1,0 +1,16 @@
+D:\VehicleTracking\VehicleTracking\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\VehicleTracking\VehicleTracking\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\VehicleTracking\VehicleTracking\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\VehicleTracking\VehicleTracking\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\VehicleTracking\VehicleTracking\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\VehicleTracking\VehicleTracking\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\VehicleTracking\VehicleTracking\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\VehicleTracking\VehicleTracking\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\BackupProject\VehicleTracking\VehicleTracking\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\BackupProject\VehicleTracking\VehicleTracking\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\BackupProject\VehicleTracking\VehicleTracking\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\BackupProject\VehicleTracking\VehicleTracking\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\BackupProject\VehicleTracking\VehicleTracking\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\BackupProject\VehicleTracking\VehicleTracking\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\BackupProject\VehicleTracking\VehicleTracking\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\BackupProject\VehicleTracking\VehicleTracking\Entities\obj\Debug\netstandard2.0\Entities.pdb
